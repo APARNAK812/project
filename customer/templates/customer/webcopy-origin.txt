@@ -1,0 +1,2872 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.eot
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.eot?
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.svg
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.woff
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-brands-400.woff2
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.eot
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.eot?
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.svg
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.woff
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-regular-400.woff2
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.eot
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.eot?
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.svg
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.woff
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/webfonts/fa-solid-900.woff2
+File Name: D:\webtemp\htmldesigntemplates.com\ajax\libs\font-awesome\5.11.2\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800&display=swap
+File Name: D:\webtemp\htmldesigntemplates.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap
+File Name: D:\webtemp\htmldesigntemplates.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap
+File Name: D:\webtemp\htmldesigntemplates.com\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=6.0.3
+File Name: D:\webtemp\htmldesigntemplates.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: D:\webtemp\htmldesigntemplates.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://htmldesigntemplates.com/?feed=comments-rss2
+File Name: D:\webtemp\htmldesigntemplates.com\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://htmldesigntemplates.com/?feed=rss2
+File Name: D:\webtemp\htmldesigntemplates.com\index.htm
+Content Type: application/rss+xml
+
+Uri: https://htmldesigntemplates.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\webtemp\htmldesigntemplates.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/404-1.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\404-1.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/404.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\404.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/about-us.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\about-us.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/about.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\about.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/blog-single.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\blog-single.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/booking.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\booking.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/car-detail.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\car-detail.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/car-grid.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\car-grid.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/car-list.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\car-list.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/comingsoon.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\comingsoon.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/confirmation.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\confirmation.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/contact.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\contact.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/cruise-detail.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\cruise-detail.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/cruise-grid.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\cruise-grid.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/cruise-list.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\cruise-list.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/css/bootstrap.min.css
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/html/travelin/css/plugin.css
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\css\plugin.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/html/travelin/css/style.css
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\css\style.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/about-sec.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\about-sec.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/addcoupon.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\addcoupon.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/adddoctor.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\adddoctor.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/addevents.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\addevents.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/addmarquee.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\addmarquee.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/addproduct.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\addproduct.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/adduser.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\adduser.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/appointment.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\appointment.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/css/style.css
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\css\style.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/fonts/feather-font/css/iconfont.css
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\fonts\feather-font\css\iconfont.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/fonts/feather-font/fonts/feather.eot?t=1525787366991
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\fonts\feather-font\fonts\feather.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/fonts/feather-font/fonts/feather.svg?t=1525787366991
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\fonts\feather-font\fonts\feather.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/fonts/feather-font/fonts/feather.ttf?t=1525787366991
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\fonts\feather-font\fonts\feather.ttf
+Content Type: font/ttf
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/fonts/feather-font/fonts/feather.woff?t=1525787366991
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\fonts\feather-font\fonts\feather.woff
+Content Type: font/woff
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/images/author.jpg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\images\author.jpg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/images/bg.jpg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\images\bg.jpg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/images/favicon.png/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\images\favicon.png\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/images/trending2.jpg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\images\trending2.jpg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/js/custom-slick.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\js\custom-slick.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/js/dashboard-light.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\js\dashboard-light.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/js/datepicker.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\js\datepicker.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/js/dropzone.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\js\dropzone.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/js/select2.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\js\select2.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/js/slick.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\js\slick.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/js/tags-input.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\js\tags-input.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/js/template.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\js\template.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/js/tinymce.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\js\tinymce.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/apexcharts/apexcharts.min.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\apexcharts\apexcharts.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/bootstrap-datepicker/bootstrap-datepicker.min.css
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\bootstrap-datepicker\bootstrap-datepicker.min.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/bootstrap-datepicker/bootstrap-datepicker.min.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\bootstrap-datepicker\bootstrap-datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/chartjs/Chart.min.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\chartjs\Chart.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/core/core.css
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\core\core.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/core/core.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\core\core.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/dropzone/dropzone.min.css
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\dropzone\dropzone.min.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/dropzone/dropzone.min.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\dropzone\dropzone.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/feather-icons/feather.min.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\feather-icons\feather.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/css/flag-icon.min.css
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\css\flag-icon.min.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ad.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ad.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ae.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ae.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/af.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\af.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ag.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ag.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ai.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ai.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/al.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\al.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/am.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\am.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ao.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ao.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/aq.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\aq.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ar.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ar.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/as.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\as.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/at.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\at.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/au.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\au.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/aw.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\aw.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ax.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ax.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/az.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\az.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ba.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ba.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bb.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bb.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bd.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bd.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/be.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\be.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bf.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bf.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bg.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bh.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bh.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bi.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bi.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bj.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bj.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bl.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bl.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bn.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bn.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bo.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bo.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bq.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bq.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/br.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\br.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bs.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bs.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bt.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bt.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bv.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bv.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bw.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bw.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/by.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\by.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/bz.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\bz.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ca.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ca.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cc.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cc.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cd.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cd.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cf.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cf.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cg.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cg.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ch.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ch.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ci.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ci.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ck.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ck.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cl.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cl.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cn.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cn.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/co.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\co.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cr.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cr.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cu.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cu.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cv.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cv.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cw.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cw.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cx.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cx.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cy.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cy.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/cz.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\cz.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/de.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\de.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/dj.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\dj.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/dk.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\dk.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/dm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\dm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/do.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\do.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/dz.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\dz.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ec.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ec.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ee.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ee.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/eg.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\eg.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/eh.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\eh.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/er.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\er.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/es.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\es.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/et.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\et.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/fi.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\fi.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/fj.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\fj.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/fk.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\fk.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/fm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\fm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/fo.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\fo.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/fr.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\fr.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ga.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ga.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gb.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gb.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gd.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gd.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ge.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ge.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gf.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gf.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gg.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gg.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gh.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gh.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gi.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gi.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gl.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gl.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gn.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gn.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gp.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gp.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gq.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gq.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gr.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gr.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gs.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gs.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gt.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gt.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gu.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gu.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gw.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gw.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/gy.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\gy.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/hk.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\hk.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/hm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\hm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/hn.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\hn.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/hr.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\hr.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ht.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ht.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/hu.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\hu.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/id.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\id.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ie.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ie.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/il.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\il.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/im.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\im.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/in.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\in.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/io.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\io.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/iq.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\iq.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ir.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ir.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/is.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\is.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/it.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\it.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/je.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\je.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/jm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\jm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/jo.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\jo.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/jp.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\jp.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ke.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ke.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/kg.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\kg.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/kh.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\kh.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ki.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ki.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/km.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\km.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/kn.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\kn.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/kp.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\kp.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/kr.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\kr.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/kw.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\kw.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/ky.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\ky.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/1x1/kz.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\1x1\kz.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ad.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ad.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ae.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ae.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/af.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\af.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ag.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ag.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ai.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ai.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/al.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\al.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/am.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\am.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ao.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ao.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/aq.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\aq.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ar.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ar.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/as.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\as.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/at.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\at.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/au.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\au.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/aw.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\aw.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ax.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ax.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/az.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\az.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ba.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ba.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bb.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bb.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bd.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bd.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/be.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\be.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bf.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bf.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bg.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bg.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bh.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bh.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bi.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bi.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bj.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bj.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bl.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bl.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bn.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bn.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bo.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bo.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bq.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bq.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/br.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\br.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bs.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bs.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bt.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bt.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bv.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bv.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bw.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bw.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/by.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\by.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/bz.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\bz.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ca.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ca.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cc.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cc.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cd.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cd.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cf.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cf.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cg.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cg.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ch.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ch.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ci.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ci.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ck.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ck.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cl.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cl.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cn.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cn.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/co.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\co.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cr.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cr.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cu.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cu.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cv.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cv.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cw.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cw.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cx.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cx.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cy.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cy.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/cz.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\cz.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/de.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\de.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/dj.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\dj.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/dk.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\dk.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/dm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\dm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/do.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\do.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/dz.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\dz.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ec.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ec.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ee.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ee.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/eg.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\eg.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/eh.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\eh.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/er.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\er.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/es.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\es.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/et.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\et.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/fi.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\fi.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/fj.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\fj.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/fk.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\fk.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/fm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\fm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/fo.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\fo.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/fr.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\fr.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ga.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ga.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gb.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gb.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gd.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gd.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ge.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ge.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gf.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gf.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gg.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gg.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gh.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gh.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gi.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gi.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gl.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gl.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gn.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gn.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gp.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gp.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gq.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gq.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gr.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gr.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gs.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gs.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gt.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gt.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gu.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gu.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gw.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gw.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/gy.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\gy.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/hk.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\hk.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/hm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\hm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/hn.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\hn.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/hr.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\hr.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ht.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ht.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/hu.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\hu.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/id.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\id.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ie.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ie.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/il.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\il.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/im.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\im.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/in.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\in.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/io.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\io.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/iq.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\iq.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ir.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ir.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/is.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\is.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/it.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\it.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/je.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\je.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/jm.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\jm.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/jo.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\jo.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/jp.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\jp.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ke.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ke.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/kg.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\kg.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/kh.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\kh.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ki.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ki.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/km.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\km.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/kn.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\kn.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/kp.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\kp.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/kr.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\kr.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/kw.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\kw.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/ky.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\ky.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/flag-icon-css/flags/4x3/kz.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\flag-icon-css\flags\4x3\kz.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/jquery-tags-input/jquery.tagsinput.min.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\jquery-tags-input\jquery.tagsinput.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/jquery.flot/jquery.flot.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\jquery.flot\jquery.flot.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/jquery.flot/jquery.flot.resize.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\jquery.flot\jquery.flot.resize.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/select2/select2.min.css
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\select2\select2.min.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/select2/select2.min.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\select2\select2.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/assets/vendors/tinymce/tinymce.min.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\assets\vendors\tinymce\tinymce.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/billing.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\billing.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/chat.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\chat.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/child-category.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\child-category.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/company-profile.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\company-profile.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/configuration.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\configuration.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/coupon.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\coupon.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/customer-block.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\customer-block.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/customer-list.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\customer-list.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/customer-report.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\customer-report.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/dashboard.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\dashboard.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/delivery-list.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\delivery-list.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/delivery-person.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\delivery-person.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/department.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\department.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/doctors-list.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\doctors-list.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/events.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\events.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/gallery.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\gallery.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/invent-report.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\invent-report.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/main-category.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\main-category.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/order-detail.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\order-detail.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/order-history.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\order-history.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/order-invoice.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\order-invoice.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/order-manage.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\order-manage.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/parent-category.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\parent-category.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/payment-report.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\payment-report.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/payment.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\payment.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/popup-ads.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\popup-ads.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/products-list.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\products-list.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/profile.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\profile.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/role-manange-list.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\role-manange-list.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/services-list.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\services-list.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/slider.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\slider.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/stock-report.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\stock-report.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/testimonial.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\testimonial.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/title-section.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\title-section.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/top-servicebar.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\top-servicebar.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/dashboard/user-manage.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\dashboard\user-manage.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/destination-detail.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\destination-detail.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/destination-list.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\destination-list.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/destination-single1.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\destination-single1.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/detail-1.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\detail-1.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/detail-2.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\detail-2.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/detail-3.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\detail-3.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/detail-fullwidth.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\detail-fullwidth.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/detail-rightside.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\detail-rightside.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/faq.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\faq.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/flight-detail.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\flight-detail.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/flight-detail/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\flight-detail\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/flight-grid.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\flight-grid.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/flight-list.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\flight-list.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/fonts/fontello.eot/?52602240
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\fonts\fontello.eot\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/fonts/fontello.svg/?52602240
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\fonts\fontello.svg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/fonts/fontello.ttf/?52602240
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\fonts\fontello.ttf\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/fonts/fontello.woff/?52602240
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\fonts\fontello.woff\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/fonts/line-icons.css
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\fonts\line-icons.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/html/travelin/fonts/Simple-Line-Iconsb26c.eot?v=2.4.0
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\fonts\Simple-Line-Iconsb26c.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldesigntemplates.com/html/travelin/fonts/Simple-Line-Iconsb26c.svg?v=2.4.0
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\fonts\Simple-Line-Iconsb26c.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/fonts/Simple-Line-Iconsb26c.ttf?v=2.4.0
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\fonts\Simple-Line-Iconsb26c.ttf
+Content Type: font/ttf
+
+Uri: https://htmldesigntemplates.com/html/travelin/fonts/Simple-Line-Iconsb26c.woff2?v=2.4.0
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\fonts\Simple-Line-Iconsb26c.woff2
+Content Type: font/woff2
+
+Uri: https://htmldesigntemplates.com/html/travelin/fonts/Simple-Line-Iconsb26c.woff?v=2.4.0
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\fonts\Simple-Line-Iconsb26c.woff
+Content Type: font/woff
+
+Uri: https://htmldesigntemplates.com/html/travelin/gallery.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\gallery.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/gallery1.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\gallery1.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/grid-leftfilter.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\grid-leftfilter.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/404-1.svg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\404-1.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/background_pattern.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\background_pattern.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/bg/bg-trans.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\bg\bg-trans.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/bg/bg1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\bg\bg1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/bg/bg3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\bg\bg3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/bg/bg4.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\bg\bg4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/bg/bg6.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\bg\bg6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/bg/bg7.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\bg\bg7.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/bigyapan1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\bigyapan1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/blog/blog10.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\blog\blog10.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/blog/blog11.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\blog\blog11.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/blog/blog2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\blog\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/blog/blog3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\blog\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/blog/blog5.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\blog\blog5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/blog/blog7.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\blog\blog7.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/blog/blog8.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\blog\blog8.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/blog/blog9.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\blog\blog9.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/calltoaction3.jpg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\calltoaction3.jpg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cars/1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cars\1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cars/2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cars\2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cars/3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cars\3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cars/4.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cars\4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cars/5.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cars\5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cars/6.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cars\6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cars/car.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cars\car.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cars/cars1.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cars\cars1.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cars/cars2.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cars\cars2.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cars/cars3.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cars\cars3.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cars/cars4.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cars\cars4.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cars/cars5.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cars\cars5.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cc.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cc.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cl-1.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cl-1.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cl-2.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cl-2.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cl-3.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cl-3.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cl-4.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cl-4.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cl-5.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cl-5.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/close.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\close.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cruise/1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cruise\1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cruise/2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cruise\2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cruise/3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cruise\3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cruise/4.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cruise\4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cruise/5.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cruise\5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cruise/6.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cruise\6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cruise/slider1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cruise\slider1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cruise/slider2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cruise\slider2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/cruise/slider3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\cruise\slider3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination10.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination10.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination11.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination11.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination12.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination12.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination13.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination13.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination14.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination14.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination15.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination15.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination16.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination16.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination17.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination17.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination4.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination5.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination6.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/destination/destination7.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\destination\destination7.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/dot-overlay.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\dot-overlay.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/favicon.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\favicon.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/21.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\21.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/22.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\22.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/23.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\23.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/24.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\24.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/4.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/5.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/6.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/7.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\7.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/8.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\8.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/9.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\9.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/flight1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\flight1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/flight2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\flight2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/flight3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\flight3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/flight4.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\flight4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/flight6.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\flight6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/flight7.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\flight7.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/flight8.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\flight8.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/flight_grid_2.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\flight_grid_2.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/flight_grid_3.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\flight_grid_3.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/flight_grid_4.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\flight_grid_4.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/flights/flight_grid_5.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\flights\flight_grid_5.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/icons/002-safari.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\icons\002-safari.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/icons/003-hiking.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\icons\003-hiking.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/icons/004-camping-tent.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\icons\004-camping-tent.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/icons/005-sunbed.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\icons\005-sunbed.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/icons/006-surf.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\icons\006-surf.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/icons/007-hiking-1.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\icons\007-hiking-1.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/icons/008-cycling.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\icons\008-cycling.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/insta/ins-1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\insta\ins-1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/insta/ins-2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\insta\ins-2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/insta/ins-3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\insta\ins-3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/insta/ins-4.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\insta\ins-4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/insta/ins-5.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\insta\ins-5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/insta/ins-6.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\insta\ins-6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/insta/ins-7.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\insta\ins-7.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/insta/ins-8.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\insta\ins-8.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/insta/ins-9.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\insta\ins-9.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/loader.gif
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\loader.gif
+Content Type: image/gif
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/loading.gif
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/logo-white.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\logo-white.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/logo.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\logo.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/map.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\map.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/new-deal/deal1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\new-deal\deal1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/new-deal/deal2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\new-deal\deal2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/new-deal/deal3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\new-deal\deal3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/new-deal/deal4.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\new-deal\deal4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/new-deal/deal5.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\new-deal\deal5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/new-deal/deal6.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\new-deal\deal6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/next.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\next.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/prev.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\prev.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/reviewer/1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\reviewer\1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/reviewer/2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\reviewer\2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/reviewer/3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\reviewer\3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/section-bg1.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\section-bg1.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/section-bg2.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\section-bg2.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/shape-1.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\shape-1.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/shape-pat.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\shape-pat.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/shape2.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\shape2.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/shape4.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\shape4.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/shape6.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\shape6.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/shape8.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\shape8.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/slider/1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\slider\1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/slider/2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\slider\2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/slider/3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\slider\3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/team/img1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\team\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/team/img2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\team\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/team/img3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\team\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/team/img4.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\team\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/testi-shape.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\testi-shape.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/testi.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\testi.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/testimonial.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\testimonial.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/testimonial/img1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\testimonial\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/testimonial/img2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\testimonial\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/testimonial/img3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\testimonial\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/tour.mp4
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\tour.mp4
+Content Type: video/mp4
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/travel.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\travel.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/travel1.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\travel1.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/travel2.png
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\travel2.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending-bg.jpg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending-bg.jpg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending-large.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending-large.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending10.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending10.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending11.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending11.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending12.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending12.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending13.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending13.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending14.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending14.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending3.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending3.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending4.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending4.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending5.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending6.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending7.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending7.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trending8.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trending8.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trendingb-1.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trendingb-1.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/images/trending/trendingb-2.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\images\trending\trendingb-2.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/html/travelin/img/nucleo-icon-1.svg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\img\nucleo-icon-1.svg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/img/nucleo-icon-10.svg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\img\nucleo-icon-10.svg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/img/nucleo-icon-11.svg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\img\nucleo-icon-11.svg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/img/nucleo-icon-12.svg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\img\nucleo-icon-12.svg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/img/nucleo-icon-2.svg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\img\nucleo-icon-2.svg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/img/nucleo-icon-3.svg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\img\nucleo-icon-3.svg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/img/nucleo-icon-4.svg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\img\nucleo-icon-4.svg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/img/nucleo-icon-5.svg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\img\nucleo-icon-5.svg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/img/nucleo-icon-6.svg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\img\nucleo-icon-6.svg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/img/nucleo-icon-7.svg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\img\nucleo-icon-7.svg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/img/nucleo-icon-8.svg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\img\nucleo-icon-8.svg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/img/nucleo-icon-9.svg/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\img\nucleo-icon-9.svg\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/index-1.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\index-1.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/index-2.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\index-2.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/index-3.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\index-3.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/index-4.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\index-4.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/index-5.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\index-5.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/index-car.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\index-car.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/index-cruise.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\index-cruise.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/index-flight.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\index-flight.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/index.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\index.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/js/bootstrap.min.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/js/custom-accordian.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\js\custom-accordian.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/js/custom-nav.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\js\custom-nav.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/js/custom-navscroll.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\js\custom-navscroll.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/js/custom-swiper.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\js\custom-swiper.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/js/jquery-3.5.1.min.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\js\jquery-3.5.1.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/js/main.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\js\main.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/js/particlerun.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\js\particlerun.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/js/particles.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\js\particles.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/js/plugin.js
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\js\plugin.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/html/travelin/login.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\login.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/post-grid-1.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\post-grid-1.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/post-grid-2.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\post-grid-2.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/post-grid-3.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\post-grid-3.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/post-list-1.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\post-list-1.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/post-list-2.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\post-list-2.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/post-list-3.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\post-list-3.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/register.html/
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\register.html\index.htm
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/services-detail.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\services-detail.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/services.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\services.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/team.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\team.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/testimonials.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\testimonials.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/tour-grid.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\tour-grid.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/tour-grid1.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\tour-grid1.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/tour-grid2.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\tour-grid2.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/tour-list.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\tour-list.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/tour-list1.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\tour-list1.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/tour-list2.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\tour-list2.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/tour-single.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\tour-single.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/tour-single1.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\tour-single1.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/html/travelin/tour-single2.html
+File Name: D:\webtemp\htmldesigntemplates.com\html\travelin\tour-single2.html
+Content Type: text/html
+
+Uri: https://htmldesigntemplates.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fhtmldesigntemplates.com%2F
+File Name: D:\webtemp\htmldesigntemplates.com\index-2.php
+Content Type: application/json
+
+Uri: https://htmldesigntemplates.com/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fhtmldesigntemplates.com%2F&format=xml
+File Name: D:\webtemp\htmldesigntemplates.com\index-3.php
+Content Type: text/xml
+
+Uri: https://htmldesigntemplates.com/index.php?rest_route=/
+File Name: D:\webtemp\htmldesigntemplates.com\index.php
+Content Type: application/json
+
+Uri: https://htmldesigntemplates.com/index.php?rest_route=/wp/v2/pages/5
+File Name: D:\webtemp\htmldesigntemplates.com\index-1.php
+Content Type: application/json
+
+Uri: https://htmldesigntemplates.com/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/wp-content/themes/hello-elementor/theme.min.css?ver=2.6.1
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/01_hotux_screenshot.__large_preview-300x153.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\01_hotux_screenshot.__large_preview-300x153.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/01_hotux_screenshot.__large_preview.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\01_hotux_screenshot.__large_preview.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/01_swasthye_screenshot.__large_preview-300x153.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\01_swasthye_screenshot.__large_preview-300x153.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/01_swasthye_screenshot.__large_preview.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\01_swasthye_screenshot.__large_preview.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/01_yatra_screenshot.__large_preview-300x153.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\01_yatra_screenshot.__large_preview-300x153.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/01_yatra_screenshot.__large_preview.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\01_yatra_screenshot.__large_preview.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/cropped-fav-180x180.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\cropped-fav-180x180.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/cropped-fav-192x192.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\cropped-fav-192x192.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/cropped-fav-32x32.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\cropped-fav-32x32.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/hero-macbook-1-1024x757.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\hero-macbook-1-1024x757.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/hero-macbook-1-300x222.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\hero-macbook-1-300x222.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/hero-macbook-1-768x567.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\hero-macbook-1-768x567.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/hero-macbook-1.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\hero-macbook-1.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/logo-300x82.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\logo-300x82.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/logo.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\logo.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/magberg-300x153.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\magberg-300x153.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/magberg.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\magberg.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/perfection-300x153.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\perfection-300x153.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/perfection.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\perfection.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/port5-300x225.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\port5-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/port5-768x576.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\port5-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/port5.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\port5.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/port6-300x225.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\port6-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/port6-768x576.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\port6-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/port6.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\port6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/screenshot-copy-300x153.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\screenshot-copy-300x153.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/screenshot-copy.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\screenshot-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/test-300x231.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\test-300x231.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/test.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\test.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/test2-285x300.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\test2-285x300.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/test2-768x808.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\test2-768x808.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/test2.png
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\test2.png
+Content Type: image/png
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/undraw_blogging_vpvv.svg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\undraw_blogging_vpvv.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/welcome6-300x250.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\welcome6-300x250.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/2021/06/welcome6.jpg
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\2021\06\welcome6.jpg
+Content Type: image/jpeg
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/elementor/css/global.css?ver=1670373132
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/elementor/css/post-351.css?ver=1670373132
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\elementor\css\post-351.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/elementor/css/post-5.css?ver=1670373132
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/elementor/css/post-52.css?ver=1670373132
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\elementor\css\post-52.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/wp-content/uploads/elementor/css/post-7.css?ver=1670373131
+File Name: D:\webtemp\htmldesigntemplates.com\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/wp-includes/css/dist/block-library/style.min.css?ver=6.0.3
+File Name: D:\webtemp\htmldesigntemplates.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://htmldesigntemplates.com/wp-includes/js/dist/hooks.min.js?ver=c6d64f2cb8f5c6bb49caca37f8828ce3
+File Name: D:\webtemp\htmldesigntemplates.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/wp-includes/js/dist/i18n.min.js?ver=ebee46757c6a411e38fd079a7ac71d94
+File Name: D:\webtemp\htmldesigntemplates.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: D:\webtemp\htmldesigntemplates.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: D:\webtemp\htmldesigntemplates.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: D:\webtemp\htmldesigntemplates.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: D:\webtemp\htmldesigntemplates.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: D:\webtemp\htmldesigntemplates.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://htmldesigntemplates.com/wp-includes/wlwmanifest.xml
+File Name: D:\webtemp\htmldesigntemplates.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
